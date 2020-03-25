@@ -1,4 +1,4 @@
-const Tweet = require('../lib/models/Blog');
+const Blog = require('../lib/models/Blog');
 const Comment = require('../lib/models/Comment');
 const chance = require('chance').Chance();
 
